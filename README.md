@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+After the **exhausting** National College Entrance Examination, I'm finally **free** to explore the magnificent world of open-source. 
+
+TO-DO List:
+- Learn new languages
+  - Rust
+  - Python
+  - Javascript
+- Learn web developing
+- Machine Learning
+- Abandonware research
+
+Also want to follow @swwind.
