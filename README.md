@@ -1,29 +1,11 @@
 ### Hi there 👋
 
-<!--
-**zhzh2001/zhzh2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Ha, just templating after @RalXYZ
 
-Here are some ideas to get you started:
+👨‍🎓Crawling in [Computer Science & Technology](http://www.en.cs.zju.edu.cn/) from ZJU
+📖Love fantasy novels, especially ASOIAF & Warrior Cats
+😴Lazy lot recently
+🧝Prefer abandonware research
+🌠May StarClan light your path, for the night is dark and full of terrors~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-After the **exhausting** National College Entrance Examination, I'm finally **free** to explore the magnificent world of open-source. 
-
-TO-DO List:
-- Learn new languages
-  - Rust
-  - Python
-  - Javascript
-- Learn web developing
-- Machine Learning
-- Abandonware research
-
-Also want to follow @swwind.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhzh2001&layout=compact&langs_count=10&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
